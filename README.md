@@ -2,6 +2,7 @@
 
 ## Js Numbers
 ## JS templates
+    -can be written ' '
 
 - javascript interpretor from left to right.
 - code{
@@ -31,4 +32,4 @@ x.tostring(6);   /result:1111
     - (primitive-single store, object-multiple Store);
 ## .toExponent, .toFixed,.toPrecision
 #### float-6,doubleFloat-12;
-#### .valueOf (number can be primitive or object//every primitive has object to agin change it as object we use .valueOf)
+#### .valueOf (number can be primitive or object//every primitive has object to again change it as object we use .valueOf)
